@@ -7,14 +7,17 @@ Eu me chamo Diego Sacomano, sou um programador Front-end e atualmente estou apre
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react" />
 <br/>
-<br/>
+
 Conecte-se comigo :
 <br/>
 <a href="https://www.instagram.com/diego_sacomano/">
-<img src="https://github.com/user-attachments/assets/0b68339b-6713-4ddb-bf2a-5981f4b32f35" alt="instagram" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
 <a>
-<img src="https://github.com/user-attachments/assets/2fe3db7e-db9b-4f48-b83c-3c49d61cdc33" alt="linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="https://diegosacomano6@gamail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
 <br/>
 <br/>
